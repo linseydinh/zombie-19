@@ -1,16 +1,19 @@
 Linsey Dinh (linseydinh@berkeley.edu)
 Discord name: linseydinh 
-# Zombie-19 (Contagion horror and the amplification of fear , during the COVID-19 Pandemic)
+# Zombie-19: Contagion Horror Becomes Reality?
 
 ### Table of Contents
  
 1. [Story Board](https://lucid.app/lucidchart/invitations/accept/inv_51e2e364-d5bc-4779-9c7f-fc51242c81f8)	
+ 
 2. Description
 3. Files
+4. Video
 
-### Description
+### Abstract
 
-Project explores contagion horror themes (i.e. zombies, plagues, infection, etc) and how they have influenced fear during the COVID-19 pandemic by exploring Twitter data as a form of expression of fear, and IMDB data as an indicator of popularity of contagion horror in media before, and after, the pandemic. 
+Zombie-19 is an exploration of contagion horror (i.e. Zombies) , it's popularity in entertainment media, and it's influence on the COVID-19 pandemic. Contagion horror is a genre of horror that has been present in various forms of literature and media since the earliest human writings and forms of entertainment, which preys on fear of infection and contamination, and contains themes of apocalypse and plague (Sartin 2019). The COVID-19 pandemic was a shocking and foriegn experience to many, while exposure to contagion horror is not. With the growing popularity of contagion horror in media and entertainment, and the COVID-19 pandemic being frightening and unfamiliar, I hypothesized that contagion horror in popular media has influence over the way people think about the COVID-19 Pandemic. To test my hypothesis, I did various analysis on Twitter datasets, some from Kaggle, and some I made on my own. I looked for Tweets that contained words like "vaccine", "COVID-19", and "zombie" together and compared that to those tweets with the word "flu" instead of "zombie". I also used an IMDB dataset to determine how popular contagion horror was compared to other genres of horror. After my analysis I determined that my hypothesis was not supported, there were no conclusive results of whether or not contagion horror has an influence on perception of the COVID-19 pandemic. However, I was surprised to see that there were Tweets that even referenced the zombie apocalypse in the first place. Overall, it is undeniable that exposure to any popular media can affect the way you think and perceive events. Though my research is only a limited part of this idea, it could inspire more research about media influence over society during the pandemic, such as other popular media like the news or other social media platforms
+
 
 ### Files
 
