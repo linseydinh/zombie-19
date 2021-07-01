@@ -2,7 +2,11 @@ Linsey Dinh (linseydinh@berkeley.edu)
 Discord name: linseydinh 
 # Zombie-19: Contagion Horror Becomes Reality?
 
+![Zombie](https://github.com/linseydinh/zombie-19/blob/7bd3261c9737b5b23db44a0199382a8781fc0156/zombie-1575482701ll5.jpg)
 
+
+
+[Source](https://www.publicdomainpictures.net/en/view-image.php?image=310523&picture=zombie)
 
 
 ### Table of Contents
@@ -13,7 +17,7 @@ Discord name: linseydinh
 ![Storyboard](https://github.com/linseydinh/zombie-19/blob/c6b9647839c7856780c55e53bbf2d48270b62cba/storyboardpic.PNG)
 
 
-2. Description
+2. Abstract
 3. Files
 4. Video
 
